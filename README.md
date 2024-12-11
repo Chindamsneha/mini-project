@@ -1,0 +1,1 @@
+This project develops an efficient article summarizer using Natural Language Processing (NLP) techniques. It extracts key information from long texts, providing a concise overview. Leveraging Python's "newspaper" library and NLP methods
